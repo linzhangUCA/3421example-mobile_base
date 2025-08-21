@@ -1,29 +1,32 @@
 # 3421example-mobile_base
-## Part List
+## Parts List
 
 | Name | Description | Quantity |
 | :--- | :--- | ---: |
 | Acrylic sheet | Serves as the bed holding all components | 1 |
 | Geared DC Motor | Drives (Spins) wheel assembly  | 2 |
-|   Green LED   |     A green Light Emitting Diode, used in indicating pause and work modes       |   x1   |
-|  Solderless Breadboard  | A breadboard that is used in construction of the circuit | x1 |
-| Raspberry Pi Pico | A microcontroller that connects to computer via USB, and runs python program | x1 |
-| Analog Button | A push button used to switch modes | x1 |
-| 220 Ohm Resistor | A resistor used to protect LEDs by limiting current | x3 |
-| 330 Ohm Resistor | A resistor used in a voltage divider to power sonic ranger | x1 |
-| 470 Ohm Resistor | A resistor used in a voltage divider to power sonic ranger | x1 |
-| HC-SR04 | A ultrasonic ranger used for distance checking | x1 |
-| Raspberry Pi | A single-board computer commonly used in robotics | x1 |
-| Dual-Channel DC Motor Driver | Motor driver used to control the robot's motors | x1 |
-| Battery Pack | A pack of 2 lithium ion batteries used to power robot | x1 |
-| DROK DC Voltage Regulator | A voltage regulator used to control voltage (to 5 V) that is distributed from battery | x1 |
-| Polulu Gear Motor | A DC gearmotor used in driving bot | x2 | 
-| Assorted Jumper Wires | Wires used in making connections across components | x |
-| Wire Splitter | Component used to split ground and VCC (power) connections from the battery pack into the motor driver and the voltage regulator, which powers the Raspberry Pi. | x1 |
+| Motor bracket | Holds the motor in its pocket  | 2 |
+| M2.5x6 screw | Secures the motor brackt to the bed  | 4 |
+| M2.5x6 nut | Pairs with the screws  | 4 |
+| 18650 Lithium-ion Battery | Nominal 3.7 V each. Powers up the motors  | 2 |
+| Battery holder | Hosts 2 Li-ion batteries  | 1 |
+| Wire splitter | Splits 1-way current to 2-way  | 1 |
+| Caster wheel | Allows mobile base to turn  | 1 |
+
+
 
 ## Assembling Guide
 > For your reference
 
+### Tools
+- Screw driver.
+- Electric hand drill and bits.
+- Double sided tape.
+- Masking tape.
+- Wire peeler.
+- Multimeter.
+
+### Steps
 1. Plan placement of all the components.
 2. Drill (4) mounting holes for motor brackets.
 3. Attach a motor to a bracket, secure motor bracket to the bed with nuts and bolts. Repeat for the other motor.
