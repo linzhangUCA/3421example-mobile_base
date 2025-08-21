@@ -8,6 +8,7 @@
 | Motor bracket | Holds the motor in its pocket  | 2 |
 | M2.5x6 screw | Secures the motor brackt to the bed  | 4 |
 | M2.5x6 nut | Pairs with the screws  | 4 |
+| Wheel assembly | Features with a rim and a tire  | 2 |
 | 18650 Lithium-ion Battery | Nominal 3.7 V each. Powers up the motors  | 2 |
 | Battery holder | Hosts 2 Li-ion batteries  | 1 |
 | Wire splitter | Splits 1-way current to 2-way  | 1 |
