@@ -15,7 +15,7 @@
 | Wire splitter | Splits 1-way current to 2-way  | 1 |
 | Caster wheel | Allows mobile base to turn  | 1 |
 
-
+![part_list](/images/part_list.png)
 
 ## Assembling Guide
 > For your reference
