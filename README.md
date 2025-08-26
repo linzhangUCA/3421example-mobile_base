@@ -5,6 +5,7 @@
 | :--- | :--- | ---: |
 | Acrylic sheet | Serves as the bed holding all components | 1 |
 | Geared DC Motor | Drives (Spins) wheel assembly  | 2 |
+| 6-Pin JST-ZH connector with wires | Connect motor and power source  | 2 |
 | Motor bracket | Holds the motor in its pocket  | 2 |
 | M2.5x6 screw | Secures the motor brackt to the bed  | 4 |
 | M2.5x6 nut | Pairs with the screws  | 4 |
